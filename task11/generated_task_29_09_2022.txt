@@ -1,0 +1,1 @@
+{'mail': 'belkov.as@phystech.edu', 'id': 3601992552, 'type': 'classification', 'dataset': {'name': 'Breast Cancer Data Set', 'url': 'https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html#sklearn.datasets.load_breast_cancer'}, 'method': ['Метод Парзеновского окна', 'Логистическая регрессия', 'Метод потенциальных функций']}
