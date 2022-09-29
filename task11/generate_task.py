@@ -55,7 +55,7 @@ methods = {
 
 
 task = dict()
-task["mail"] = input(prompt="Enter your mail: ")
+task["mail"] = input("Enter your mail: ")
 
 assert task["mail"].split("@")[-1] == "phystech.edu", f"Entered email: {task['mail']}"
 
